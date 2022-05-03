@@ -1,6 +1,6 @@
 import java.util.Random;
 /**
- * Calculate Daily  Employee Wagec
+ * Calculate Daily  Employee Wage 
  * 
  * @author : pranav gupta
  *
